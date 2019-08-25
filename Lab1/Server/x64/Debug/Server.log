@@ -1,0 +1,6 @@
+﻿  TryService.cpp
+c:\users\wart vader\desktop\labasp2018-master\server\tryservice.cpp(66): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\wart vader\desktop\labasp2018-master\server\tryservice.cpp(100): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\wart vader\desktop\labasp2018-master\server\tryservice.cpp(208): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\wart vader\desktop\labasp2018-master\server\tryservice.cpp(333): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  Server.vcxproj -> C:\Users\Wart Vader\Desktop\LabaSP2018-master\x64\Debug\Server.exe

@@ -1,0 +1,8 @@
+﻿  Server.cpp
+c:\users\wart vader\source\repos\labasp2018\server\server.cpp(45): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\wart vader\source\repos\labasp2018\server\server.cpp(141): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\wart vader\source\repos\labasp2018\server\server.cpp(265): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\wart vader\source\repos\labasp2018\server\server.cpp(327): warning C4101: hdata: неиспользованная локальная переменная
+c:\users\wart vader\source\repos\labasp2018\server\server.cpp(326): warning C4101: fdat: неиспользованная локальная переменная
+c:\users\wart vader\source\repos\labasp2018\server\server.cpp(426): warning C4101: client: неиспользованная локальная переменная
+  Server.vcxproj -> C:\Users\Wart Vader\source\repos\LabaSP2018\Debug\Server.exe

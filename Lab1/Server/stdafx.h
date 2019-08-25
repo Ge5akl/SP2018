@@ -1,0 +1,17 @@
+// stdafx.h : include file for standard system include files,
+// or project specific include files that are used frequently, but
+// are changed infrequently
+//
+
+#pragma once
+
+#include "targetver.h"
+
+#include <stdio.h>
+#include <tchar.h>
+#include <windows.h>
+
+
+static LPTSTR ServiceName = (LPTSTR)"ServiceDMS";
+SERVICE_STATUS ServiceStatus;
+SERVICE_STATUS_HANDLE hStatus;

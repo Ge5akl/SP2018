@@ -1,0 +1,6 @@
+﻿  Client.cpp
+c:\users\wart vader\desktop\labasp2018-master\labasp2018\client.cpp(34): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\wart vader\desktop\labasp2018-master\labasp2018\client.cpp(69): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\wart vader\desktop\labasp2018-master\labasp2018\client.cpp(138): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\wart vader\desktop\labasp2018-master\labasp2018\client.cpp(47): warning C4172: возвращение адреса локальной или временной переменной : err
+  LabaSP2018.vcxproj -> C:\Users\Wart Vader\Desktop\LabaSP2018-master\x64\Debug\Client.exe

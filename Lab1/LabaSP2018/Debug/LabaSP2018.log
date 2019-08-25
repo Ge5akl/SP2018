@@ -1,0 +1,3 @@
+﻿  Client.cpp
+c:\users\wart vader\source\repos\labasp2018\labasp2018\client.cpp(26): warning C4101: send: неиспользованная локальная переменная
+  LabaSP2018.vcxproj -> C:\Users\Wart Vader\source\repos\LabaSP2018\Debug\Client.exe

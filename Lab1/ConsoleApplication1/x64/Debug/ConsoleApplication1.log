@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  ConsoleApplication1.cpp
+c:\users\wart vader\desktop\labasp2018-master\consoleapplication1\consoleapplication1.cpp(66): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\wart vader\desktop\labasp2018-master\consoleapplication1\consoleapplication1.cpp(100): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\wart vader\desktop\labasp2018-master\consoleapplication1\consoleapplication1.cpp(204): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\wart vader\desktop\labasp2018-master\consoleapplication1\consoleapplication1.cpp(329): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\wart vader\desktop\labasp2018-master\consoleapplication1\consoleapplication1.cpp(377): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ConsoleApplication1.vcxproj -> C:\Users\Wart Vader\Desktop\LabaSP2018-master\x64\Debug\ConsoleApplication1.exe
